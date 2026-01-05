@@ -1,0 +1,19 @@
+{
+  "theme": "dark",
+  "fonts": {
+    "body": "Consolas"
+  },
+  "custom": {
+    ".sidebar": {
+      "font-family": "Verdana",
+      "background-color": "#1a1f27"
+    },
+    ".my-custom-class": {
+      "color": "#ff0000"
+    }
+  },
+  "overrides": {
+    "--blue": "#00ff00",
+    "--radius-sm": "4px"
+  }
+}
