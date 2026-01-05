@@ -225,4 +225,3 @@ Classes are grouped by category for easy reference.
 
 This reference covers **all classes** currently available in ATOM.css v0.1.
 Use them freely — most are utility-first and can be combined.
-````
