@@ -43,9 +43,9 @@ There are 2 main ways:
     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.10.0/highlight.min.js"></script>
     <link
       rel="stylesheet"
-      href="https://raw.githubusercontent.com/NightNovaNN/Atom-CSS/main/src/atom.css"
+      href="https://nightnovann.github.io/Atom-CSS-Host/atom.css"
     />
-    <script src="https://raw.githubusercontent.com/NightNovaNN/Atom-CSS/main/src/atom.css"></script>
+    <script src="https://nightnovann.github.io/Atom-CSS-Host/atom.js"></script>
     ```
 - Use!
 
