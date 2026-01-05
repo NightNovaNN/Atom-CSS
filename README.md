@@ -60,6 +60,8 @@ Open `tests/test.html` in your browser to see all features in action.
 
 That's it — you're ready to go!
 
+Also, check out `docs/` for more info!
+
 ## Features
 
 ### Layout & Utilities
