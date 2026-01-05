@@ -95,7 +95,7 @@ Create `atcss.config.json` in your project root:
 
 ```json
 {
-  "theme": "dark", // "dark" | "light" | custom via overrides
+  "theme": "dark", 
   "fonts": {
     "body": "Inter, system-ui, sans-serif",
     "headings": "Georgia, serif",
